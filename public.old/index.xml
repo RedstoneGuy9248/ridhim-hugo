@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Ridhim</title>
+    <link>http://192.168.0.135/</link>
+    <description>Recent content on Ridhim</description>
+    <generator>Hugo -- 0.136.4</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 25 Oct 2024 08:55:59 +0000</lastBuildDate>
+    <atom:link href="http://192.168.0.135/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Technology 🧑‍💻</title>
+      <link>http://192.168.0.135/interests/technology/</link>
+      <pubDate>Fri, 25 Oct 2024 08:55:59 +0000</pubDate>
+      <guid>http://192.168.0.135/interests/technology/</guid>
+      <description>&lt;p&gt;I am really enthusiastic about Technology. I love to code, experiment with linux, troubleshoot problems, etc.
+I even have a home server you can read about &lt;a href=&#34;http://192.168.0.135/interests/home-server/&#34; title=&#34;here&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About Me</title>
+      <link>http://192.168.0.135/about-me/</link>
+      <pubDate>Thu, 24 Oct 2024 14:33:10 +0000</pubDate>
+      <guid>http://192.168.0.135/about-me/</guid>
+      <description>&lt;p&gt;Hi, I&amp;rsquo;m Ridhim, also known as RedstoneGuy online.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m a 9th-grader in India, passionate about technology.
+I enjoy crocheting, gaming, and experimenting with linux.
+I also love cooking, baking, and researching.
+You can view more about these interests of mine by clicking the interests button in the header.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Cooking &amp; Baking 🍳</title>
+      <link>http://192.168.0.135/interests/cooking--baking/</link>
+      <pubDate>Thu, 24 Oct 2024 11:19:04 +0000</pubDate>
+      <guid>http://192.168.0.135/interests/cooking--baking/</guid>
+      <description>&lt;p&gt;I love to bake and cook, and i&amp;rsquo;ve made many dishes like Tteokbokki, Macarons, Lasagna, Cakes, Muffins, Malai Tikka, Pizza, Pasta, Breads, etc.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Pet Owner 🐶</title>
+      <link>http://192.168.0.135/interests/pet-owner/</link>
+      <pubDate>Thu, 24 Oct 2024 11:17:17 +0000</pubDate>
+      <guid>http://192.168.0.135/interests/pet-owner/</guid>
+      <description>&lt;p&gt;I have a little doge named Keona, who&amp;rsquo;s the best thing in my life. She&amp;rsquo;s a Lhasa apso, 3 years old, and loves to lick my face.
+&lt;img loading=&#34;lazy&#34; src=&#34;http://192.168.0.135/images/keona.jpg&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Gaming 🎮</title>
+      <link>http://192.168.0.135/interests/gaming/</link>
+      <pubDate>Thu, 24 Oct 2024 11:16:58 +0000</pubDate>
+      <guid>http://192.168.0.135/interests/gaming/</guid>
+      <description>&lt;p&gt;I play many games like Minecraft, Valorant, Forza Horizon 4, Stardew Valley.
+Minecraft Bedrock Gamertag: RedstoneGuy9248
+Minecraft Java IGN: Redst0neGuy
+Valorant Riot ID: RedstoneGuy#3909
+Steam: RedstoneGuy&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>3D-Printing 🖨️</title>
+      <link>http://192.168.0.135/interests/3d-printing/</link>
+      <pubDate>Thu, 24 Oct 2024 11:16:46 +0000</pubDate>
+      <guid>http://192.168.0.135/interests/3d-printing/</guid>
+      <description>&lt;p&gt;I have an Creality Ender 3 3D-Printer and use it with Octoprint, Cura, and model using AutoDesk Fusion 360.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Home Server 🖥️</title>
+      <link>http://192.168.0.135/interests/home-server/</link>
+      <pubDate>Thu, 24 Oct 2024 11:16:30 +0000</pubDate>
+      <guid>http://192.168.0.135/interests/home-server/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m running a proxmox home server with services like Jellyfin, Pi-Hole, QBittorrent, HomeAssistant, and more. I also use it to expirement with linux and self host many other services.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Crocheting 🌀</title>
+      <link>http://192.168.0.135/interests/crocheting/</link>
+      <pubDate>Thu, 24 Oct 2024 11:10:46 +0000</pubDate>
+      <guid>http://192.168.0.135/interests/crocheting/</guid>
+      <description>&lt;p&gt;I started crocheting 2 years ago in 2022 and since then have crocheted many bags, pouches, caps, etc
+&lt;img loading=&#34;lazy&#34; src=&#34;http://192.168.0.135/images/crochet-doll.jpg&#34; alt=&#34;&#34;  /&gt;
+
+&lt;img loading=&#34;lazy&#34; src=&#34;http://192.168.0.135/images/crochet-glass.jpg&#34; alt=&#34;&#34;  /&gt;
+
+&lt;img loading=&#34;lazy&#34; src=&#34;http://192.168.0.135/images/crochet-bookmark.jpg&#34; alt=&#34;&#34;  /&gt;
+
+&lt;img loading=&#34;lazy&#34; src=&#34;http://192.168.0.135/images/crochet-pouches.jpg&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

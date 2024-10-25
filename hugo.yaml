@@ -1,0 +1,33 @@
+baseURL: http://192.168.0.135/
+languageCode: en-us
+title: Ridhim
+theme: ["PaperMod"]
+params:
+  profileMode:
+    enabled: true
+    title: "Ridhim" # optional default will be site title
+    subtitle: "Hi! I'm Ridhim, also known as RedstoneGuy online. Click on the interests button in the corner to see some of my interests."
+    imageUrl: images/pfp.jpg
+#    imageUrl: "https://yt3.googleusercontent.com/x9J-BPOC066uoJs6SajxOZKeyLE6InJOHUyyX-5LxXdjcieipKZpWInGuIB6BOquuRfxEG5HRpc=s160-c-k-c0x00ffffff-no-rj" # optional
+    imageTitle: "Profile Picture" # optional
+    imageWidth: 220 # custom size
+    imageHeight: 220 # custom size
+
+#  socialIcons: # optional
+#    - name: "<platform>"
+#      url: "<link>"
+#    - name: "<platform 2>"
+#      url: "<link2>"
+
+languages:
+  en:
+    languageName: "English"
+    weight: 1
+    menu:
+      main:
+        - name: Interests
+          url: interests/
+          weight: 1
+        - name: About Me
+          url: about-me
+          weight: 1

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Projects on Ridhim</title>
+    <link>http://192.168.0.134:1313/projects/</link>
+    <description>Recent content in Projects on Ridhim</description>
+    <generator>Hugo -- 0.136.4</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 24 Oct 2024 11:19:04 +0000</lastBuildDate>
+    <atom:link href="http://192.168.0.134:1313/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cooking &amp; Baking</title>
+      <link>http://192.168.0.134:1313/projects/cooking--baking/</link>
+      <pubDate>Thu, 24 Oct 2024 11:19:04 +0000</pubDate>
+      <guid>http://192.168.0.134:1313/projects/cooking--baking/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pet Owner</title>
+      <link>http://192.168.0.134:1313/projects/pet-owner/</link>
+      <pubDate>Thu, 24 Oct 2024 11:17:17 +0000</pubDate>
+      <guid>http://192.168.0.134:1313/projects/pet-owner/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Gaming</title>
+      <link>http://192.168.0.134:1313/projects/gaming/</link>
+      <pubDate>Thu, 24 Oct 2024 11:16:58 +0000</pubDate>
+      <guid>http://192.168.0.134:1313/projects/gaming/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>3d Printing</title>
+      <link>http://192.168.0.134:1313/projects/3d-printing/</link>
+      <pubDate>Thu, 24 Oct 2024 11:16:46 +0000</pubDate>
+      <guid>http://192.168.0.134:1313/projects/3d-printing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Home Server</title>
+      <link>http://192.168.0.134:1313/projects/home-server/</link>
+      <pubDate>Thu, 24 Oct 2024 11:16:30 +0000</pubDate>
+      <guid>http://192.168.0.134:1313/projects/home-server/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Crocheting 🌀</title>
+      <link>http://192.168.0.134:1313/projects/crocheting/</link>
+      <pubDate>Thu, 24 Oct 2024 11:10:46 +0000</pubDate>
+      <guid>http://192.168.0.134:1313/projects/crocheting/</guid>
+      <description>&lt;p&gt;hi&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
